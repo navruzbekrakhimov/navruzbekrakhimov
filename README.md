@@ -20,4 +20,6 @@ My Social Medi pages
 
 <br />
 
-:start:
+📍 &nbsp; Current location: Toshkent, Uzbekistan  
+📬 &nbsp; Ask me about anything, Iam happy to help
+📧 &nbsp; Hosh to reac me:[@raximovnavrozbek1@gmail.com]
