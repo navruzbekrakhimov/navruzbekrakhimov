@@ -5,6 +5,7 @@ My Social Medi pages
 <a href="https://www.linkedin.com/in/navruzbek-rakhimov-a9a7a4235/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30px">
 </a>
+<br />
 
 ###Languages and tools I work with:
 
@@ -16,3 +17,7 @@ My Social Medi pages
 <code><img src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" width="30px"></code>
 <code><img src="https://e7.pngegg.com/pngimages/666/502/png-clipart-brand-php-logo-computer-file-product-breeze-blue-text-thumbnail.png" width="30px"></code>
 <code><img src="https://mohanma.com/wp-content/uploads/2018/02/oop.jpg" width="30px"></code>
+
+<br />
+
+:start:
